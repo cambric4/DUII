@@ -1,0 +1,21 @@
+.dropdown-menu {
+    display: none;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background: #eee;
+    border: 1px solid #ccc;
+    position: absolute;
+  }
+  
+  .dropdown-menu.visible {
+    display: block;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    margin: 1rem;
+  }
+
+  
